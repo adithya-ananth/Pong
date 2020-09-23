@@ -1,3 +1,5 @@
+<!-- The extension is saved as .js but the skeleton is in html -->
+
 <html>
 	<canvas id="gameCanvas" width="800" height="600"></canvas>
 	
